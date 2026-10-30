@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-30T15:41:33.823Z",
+  "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-10-31",
+      "card": {
+        "person": "努巴尔·阿费扬",
+        "idea": "困难任务先收拢注意力，再快速验证",
+        "story": "疫情初期，阿费扬与莫德纳团队放缓二十个药物研发项目，集中力量开发疫苗。他在MIT演讲中回忆，获得病毒刺突蛋白序列后，团队用四十八小时制成候选疫苗。",
+        "lesson": "本项目建议：先圈出今日主任务，再依次推进。",
+        "sourceTitle": "MIT News｜Commencement address by Noubar Afeyan PhD ’87",
+        "sourceUrl": "https://news.mit.edu/2024/commencement-address-noubar-afeyan-0530",
+        "sourceDate": "2024-05-30",
+        "kind": "案例提炼"
+      },
+      "encouragement": "先拿下今天的主任务，再向下一关进攻。",
+      "reviewedAt": "2026-10-30T14:22:56.019Z",
+      "revision": 2
+    },
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-10-30",
+      "card": {
+        "person": "罗杰·费德勒",
+        "idea": "上一分结束，就把注意力交给下一分",
+        "story": "费德勒在达特茅斯演讲时说，自己赢过许多比赛，却也经常丢分。他把双误和漂亮得分都当作已经结束的一分，提醒自己及时放下，才能清醒而专注地投入下一分。",
+        "lesson": "本项目建议：订正一处错误后，专注下一题。",
+        "sourceTitle": "达特茅斯学院｜2024 Commencement Address by Roger Federer",
+        "sourceUrl": "https://home.dartmouth.edu/news/2024/06/2024-commencement-address-roger-federer",
+        "sourceDate": "2024-06-09",
+        "kind": "观点转述"
+      },
+      "encouragement": "上一题已经过去，下一题就是你的新主场。",
+      "reviewedAt": "2026-10-30T13:51:23Z",
+      "revision": 1
+    }
+  ]
+}
