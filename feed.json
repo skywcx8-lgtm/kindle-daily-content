@@ -1,7 +1,41 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T16:26:04.173Z",
+  "updatedAt": "2026-10-31T22:14:02+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-02",
+      "card": {
+        "person": "凯蒂·莱德基",
+        "idea": "目标对准自己的动作，不对准别人",
+        "story": "莱德基在斯坦福演讲中说，她设目标不盯着赢别人，而是盯自己的配速、技术和努力。演讲前一个月，她游出九年未达到的目标时间，喜悦来自完成目标本身。",
+        "lesson": "本项目建议：把今日目标写成一个可核对动作。",
+        "sourceTitle": "Stanford Report｜‘Don’t be afraid to take the lead,’ Katie Ledecky tells the Class of 2025",
+        "sourceUrl": "https://news.stanford.edu/stories/2025/06/commencement-address-katie-ledecky",
+        "sourceDate": "2025-06-15",
+        "kind": "观点转述"
+      },
+      "encouragement": "目标已经写下，狠狠干完这一小步再开下一关。",
+      "reviewedAt": "2026-10-31T22:13:28+08:00",
+      "revision": 1
+    },
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-01",
+      "card": {
+        "person": "维克托·安布罗斯",
+        "idea": "从能完成的小项目，练到独立创造",
+        "story": "安布罗斯在访谈中谈到修复旧吉他：把琴拆开，改善木料或支撑，让它重新好好发声。他建议，这项爱好可以先从修理起步，再组装套件，最后逐步尝试从头制作。",
+        "lesson": "本项目建议：先改一个小作品，再尝试新设计。",
+        "sourceTitle": "诺贝尔奖官网｜Victor Ambros – Nobel Prize Conversations",
+        "sourceUrl": "https://www.nobelprize.org/prizes/medicine/2024/ambros/podcast/",
+        "sourceDate": "2025-06-12",
+        "kind": "案例提炼"
+      },
+      "encouragement": "动手把第一版做出来，再把它打磨成你的实力。",
+      "reviewedAt": "2026-10-30T13:52:44Z",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-10-31",
@@ -18,23 +52,6 @@
       "encouragement": "先拿下今天的主任务，再向下一关进攻。",
       "reviewedAt": "2026-10-30T14:22:56.019Z",
       "revision": 2
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-10-30",
-      "card": {
-        "person": "罗杰·费德勒",
-        "idea": "上一分结束，就把注意力交给下一分",
-        "story": "费德勒在达特茅斯演讲时说，自己赢过许多比赛，却也经常丢分。他把双误和漂亮得分都当作已经结束的一分，提醒自己及时放下，才能清醒而专注地投入下一分。",
-        "lesson": "本项目建议：订正一处错误后，专注下一题。",
-        "sourceTitle": "达特茅斯学院｜2024 Commencement Address by Roger Federer",
-        "sourceUrl": "https://home.dartmouth.edu/news/2024/06/2024-commencement-address-roger-federer",
-        "sourceDate": "2024-06-09",
-        "kind": "观点转述"
-      },
-      "encouragement": "上一题已经过去，下一题就是你的新主场。",
-      "reviewedAt": "2026-10-30T13:51:23Z",
-      "revision": 1
     }
   ]
 }
