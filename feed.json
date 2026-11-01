@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T22:14:02+08:00",
+  "updatedAt": "2026-11-01T22:15:59+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-03",
+      "card": {
+        "person": "汉克·格林",
+        "idea": "好奇心不是闲逛，要追出一个新答案",
+        "story": "汉克·格林在麻省理工演讲中回顾：他既做过幽默短视频，也写过畅销科幻小说，还参与建设免费教育视频平台。他说，除去运气，持续学习新东西是自己前进的重要原因。",
+        "lesson": "本项目建议：每天选一问，查清后写下一句答案。",
+        "sourceTitle": "MIT News｜Commencement address by Hank Green",
+        "sourceUrl": "https://news.mit.edu/2025/commencement-address-hank-green-0529",
+        "sourceDate": "2025-05-29",
+        "kind": "案例提炼"
+      },
+      "encouragement": "今天追到底一个问题，明天你就多一件真本事。",
+      "reviewedAt": "2026-11-01T22:15:24+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-02",
@@ -35,23 +52,6 @@
       "encouragement": "动手把第一版做出来，再把它打磨成你的实力。",
       "reviewedAt": "2026-10-30T13:52:44Z",
       "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-10-31",
-      "card": {
-        "person": "努巴尔·阿费扬",
-        "idea": "困难任务先收拢注意力，再快速验证",
-        "story": "疫情初期，阿费扬与莫德纳团队放缓二十个药物研发项目，集中力量开发疫苗。他在MIT演讲中回忆，获得病毒刺突蛋白序列后，团队用四十八小时制成候选疫苗。",
-        "lesson": "本项目建议：先圈出今日主任务，再依次推进。",
-        "sourceTitle": "MIT News｜Commencement address by Noubar Afeyan PhD ’87",
-        "sourceUrl": "https://news.mit.edu/2024/commencement-address-noubar-afeyan-0530",
-        "sourceDate": "2024-05-30",
-        "kind": "案例提炼"
-      },
-      "encouragement": "先拿下今天的主任务，再向下一关进攻。",
-      "reviewedAt": "2026-10-30T14:22:56.019Z",
-      "revision": 2
     }
   ]
 }
