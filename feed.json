@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T22:15:59+08:00",
+  "updatedAt": "2026-11-02T22:36:53+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-04",
+      "card": {
+        "person": "埃斯·德夫林",
+        "idea": "真正的观察，要先放下急着判断",
+        "story": "舞台艺术家埃斯·德夫林在2024年为五十位陌生人画粉笔与炭笔肖像；此前她整个职业生涯大约只画过五十幅人像。她压下取悦对方的念头，专注观察每个人的眼睛。",
+        "lesson": "本项目建议：先静看五分钟，再记三个关键细节。",
+        "sourceTitle": "MIT News｜Face-to-face with Es Devlin",
+        "sourceUrl": "https://news.mit.edu/2025/face-to-face-with-es-devlin-0626",
+        "sourceDate": "2025-06-26",
+        "kind": "案例提炼"
+      },
+      "encouragement": "别急着抢答案，先看透细节，再一击命中。",
+      "reviewedAt": "2026-11-02T22:36:24+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-03",
@@ -34,23 +51,6 @@
       },
       "encouragement": "目标已经写下，狠狠干完这一小步再开下一关。",
       "reviewedAt": "2026-10-31T22:13:28+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-01",
-      "card": {
-        "person": "维克托·安布罗斯",
-        "idea": "从能完成的小项目，练到独立创造",
-        "story": "安布罗斯在访谈中谈到修复旧吉他：把琴拆开，改善木料或支撑，让它重新好好发声。他建议，这项爱好可以先从修理起步，再组装套件，最后逐步尝试从头制作。",
-        "lesson": "本项目建议：先改一个小作品，再尝试新设计。",
-        "sourceTitle": "诺贝尔奖官网｜Victor Ambros – Nobel Prize Conversations",
-        "sourceUrl": "https://www.nobelprize.org/prizes/medicine/2024/ambros/podcast/",
-        "sourceDate": "2025-06-12",
-        "kind": "案例提炼"
-      },
-      "encouragement": "动手把第一版做出来，再把它打磨成你的实力。",
-      "reviewedAt": "2026-10-30T13:52:44Z",
       "revision": 1
     }
   ]
