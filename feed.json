@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T22:36:53+08:00",
+  "updatedAt": "2026-11-03T22:10:46+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-05",
+      "card": {
+        "person": "诺拉·阿尔马特鲁希",
+        "idea": "准确表达，是团队行动的共同坐标",
+        "story": "宇航员诺拉·阿尔马特鲁希在NASA访谈中说，空间站任务连着任务控制中心和后方团队，约有百人协同。为了让所有人同步，训练要求术语一致、表达准确简洁。",
+        "lesson": "本项目建议：答题后用一句话讲清依据和结论。",
+        "sourceTitle": "NASA｜Astronaut Graduation 2024",
+        "sourceUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/astronaut-graduation-2024/",
+        "sourceDate": "2024-03-01",
+        "kind": "案例提炼"
+      },
+      "encouragement": "把依据说准、把结论说清，这一题就真正归你。",
+      "reviewedAt": "2026-11-03T22:09:44+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-04",
@@ -34,23 +51,6 @@
       },
       "encouragement": "今天追到底一个问题，明天你就多一件真本事。",
       "reviewedAt": "2026-11-01T22:15:24+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-02",
-      "card": {
-        "person": "凯蒂·莱德基",
-        "idea": "目标对准自己的动作，不对准别人",
-        "story": "莱德基在斯坦福演讲中说，她设目标不盯着赢别人，而是盯自己的配速、技术和努力。演讲前一个月，她游出九年未达到的目标时间，喜悦来自完成目标本身。",
-        "lesson": "本项目建议：把今日目标写成一个可核对动作。",
-        "sourceTitle": "Stanford Report｜‘Don’t be afraid to take the lead,’ Katie Ledecky tells the Class of 2025",
-        "sourceUrl": "https://news.stanford.edu/stories/2025/06/commencement-address-katie-ledecky",
-        "sourceDate": "2025-06-15",
-        "kind": "观点转述"
-      },
-      "encouragement": "目标已经写下，狠狠干完这一小步再开下一关。",
-      "reviewedAt": "2026-10-31T22:13:28+08:00",
       "revision": 1
     }
   ]
