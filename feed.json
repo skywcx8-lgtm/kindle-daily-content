@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T22:10:46+08:00",
+  "updatedAt": "2026-11-04T22:13:47+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-06",
+      "card": {
+        "person": "吴珊卓",
+        "idea": "不适不是退场信号，也可能是练习入口",
+        "story": "演员吴珊卓在达特茅斯演讲中回忆，拍摄《实习医生格蕾》时，她曾与编剧因台词僵持。听取主创建议并真正说出台词后，她获得了对角色与合作更深的理解。",
+        "lesson": "本项目建议：卡住时先标出不适点，再完成一次尝试。",
+        "sourceTitle": "Dartmouth｜2025 Commencement Address by Sandra Oh",
+        "sourceUrl": "https://home.dartmouth.edu/news/2025/06/2025-commencement-address-sandra-oh",
+        "sourceDate": "2025-06-15",
+        "kind": "案例提炼"
+      },
+      "encouragement": "不舒服也别撤，先把这一步扎实做完。",
+      "reviewedAt": "2026-11-04T22:12:57+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-05",
@@ -34,23 +51,6 @@
       },
       "encouragement": "别急着抢答案，先看透细节，再一击命中。",
       "reviewedAt": "2026-11-02T22:36:24+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-03",
-      "card": {
-        "person": "汉克·格林",
-        "idea": "好奇心不是闲逛，要追出一个新答案",
-        "story": "汉克·格林在麻省理工演讲中回顾：他既做过幽默短视频，也写过畅销科幻小说，还参与建设免费教育视频平台。他说，除去运气，持续学习新东西是自己前进的重要原因。",
-        "lesson": "本项目建议：每天选一问，查清后写下一句答案。",
-        "sourceTitle": "MIT News｜Commencement address by Hank Green",
-        "sourceUrl": "https://news.mit.edu/2025/commencement-address-hank-green-0529",
-        "sourceDate": "2025-05-29",
-        "kind": "案例提炼"
-      },
-      "encouragement": "今天追到底一个问题，明天你就多一件真本事。",
-      "reviewedAt": "2026-11-01T22:15:24+08:00",
       "revision": 1
     }
   ]
