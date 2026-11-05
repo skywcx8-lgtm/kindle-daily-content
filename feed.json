@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T22:13:47+08:00",
+  "updatedAt": "2026-11-05T22:14:15+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-07",
+      "card": {
+        "person": "苏姿丰",
+        "idea": "失败结果不是句号，而是下一次实验的线索",
+        "story": "苏姿丰在MIT演讲中回忆，读博时她在洁净室花数周制作器件，测试结果却与预期不符。她便回到导师办公室，一起决定下一项实验；这样的反复让她逐步学会解决问题。",
+        "lesson": "本项目建议：错题后写一条原因，再换一步重试。",
+        "sourceTitle": "MIT News｜Commencement address by Lisa Su ’90, SM ’91, PhD ’94",
+        "sourceUrl": "https://news.mit.edu/2026/commencement-address-lisa-su-0528",
+        "sourceDate": "2026-05-28",
+        "kind": "案例提炼"
+      },
+      "encouragement": "别怕第一遍失手，抓住原因，立刻打出第二回合。",
+      "reviewedAt": "2026-11-05T22:13:33+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-06",
@@ -34,23 +51,6 @@
       },
       "encouragement": "把依据说准、把结论说清，这一题就真正归你。",
       "reviewedAt": "2026-11-03T22:09:44+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-04",
-      "card": {
-        "person": "埃斯·德夫林",
-        "idea": "真正的观察，要先放下急着判断",
-        "story": "舞台艺术家埃斯·德夫林在2024年为五十位陌生人画粉笔与炭笔肖像；此前她整个职业生涯大约只画过五十幅人像。她压下取悦对方的念头，专注观察每个人的眼睛。",
-        "lesson": "本项目建议：先静看五分钟，再记三个关键细节。",
-        "sourceTitle": "MIT News｜Face-to-face with Es Devlin",
-        "sourceUrl": "https://news.mit.edu/2025/face-to-face-with-es-devlin-0626",
-        "sourceDate": "2025-06-26",
-        "kind": "案例提炼"
-      },
-      "encouragement": "别急着抢答案，先看透细节，再一击命中。",
-      "reviewedAt": "2026-11-02T22:36:24+08:00",
       "revision": 1
     }
   ]
