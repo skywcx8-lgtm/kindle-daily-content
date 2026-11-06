@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T22:14:15+08:00",
+  "updatedAt": "2026-11-06T22:09:22+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-08",
+      "card": {
+        "person": "阿德里亚娜·鲁阿诺·奥利瓦",
+        "idea": "先照顾好自己，训练才有稳固的起点",
+        "story": "射击选手阿德里亚娜·鲁阿诺·奥利瓦在东京奥运会后，没有急着只练技术，而是与心理专家用六七个月关注自我接纳和心理状态。三年后，她以沉稳表现赢得巴黎奥运金牌。",
+        "lesson": "本项目建议：任务乱时，先写一件可控小事并完成。",
+        "sourceTitle": "Olympics.com｜Adriana Ruano Oliva's eight-year transformation from Olympic Games volunteer to country’s first Olympic champion",
+        "sourceUrl": "https://www.olympics.com/ioc/news/shooting-paris-2024-adriana-ruano-oliva-guatemala-volunteer-father-interview",
+        "sourceDate": "2024",
+        "kind": "案例提炼"
+      },
+      "encouragement": "先稳住自己，再把今天这一枪打准。",
+      "reviewedAt": "2026-11-06T22:08:08+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-07",
@@ -34,23 +51,6 @@
       },
       "encouragement": "不舒服也别撤，先把这一步扎实做完。",
       "reviewedAt": "2026-11-04T22:12:57+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-05",
-      "card": {
-        "person": "诺拉·阿尔马特鲁希",
-        "idea": "准确表达，是团队行动的共同坐标",
-        "story": "宇航员诺拉·阿尔马特鲁希在NASA访谈中说，空间站任务连着任务控制中心和后方团队，约有百人协同。为了让所有人同步，训练要求术语一致、表达准确简洁。",
-        "lesson": "本项目建议：答题后用一句话讲清依据和结论。",
-        "sourceTitle": "NASA｜Astronaut Graduation 2024",
-        "sourceUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/astronaut-graduation-2024/",
-        "sourceDate": "2024-03-01",
-        "kind": "案例提炼"
-      },
-      "encouragement": "把依据说准、把结论说清，这一题就真正归你。",
-      "reviewedAt": "2026-11-03T22:09:44+08:00",
       "revision": 1
     }
   ]
