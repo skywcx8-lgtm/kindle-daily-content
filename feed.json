@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T22:09:22+08:00",
+  "updatedAt": "2026-11-07T22:13:06+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-09",
+      "card": {
+        "person": "沃尔特·马西",
+        "idea": "不会新题时，先找出被遗漏的旧台阶",
+        "story": "物理学家沃尔特·马西在加州理工访谈中回忆，他进大学前没学过三角学，第一次物理课连向量也看不懂。导师课后专门辅导他补上缺口，这段经历让他开始迷上用物理理解世界。",
+        "lesson": "本项目建议：卡题先圈出缺的旧知识，再定点补一处。",
+        "sourceTitle": "Caltech｜Commencement Speaker Dr. Walter Massey on the Value of Science and Education",
+        "sourceUrl": "https://www.caltech.edu/about/news/walter-massey-interview-science-education-commencement-2025",
+        "sourceDate": "2025-06-04",
+        "kind": "案例提炼"
+      },
+      "encouragement": "找到断掉的台阶，补上它，下一步就能猛冲。",
+      "reviewedAt": "2026-11-07T22:11:51+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-08",
@@ -34,23 +51,6 @@
       },
       "encouragement": "别怕第一遍失手，抓住原因，立刻打出第二回合。",
       "reviewedAt": "2026-11-05T22:13:33+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-06",
-      "card": {
-        "person": "吴珊卓",
-        "idea": "不适不是退场信号，也可能是练习入口",
-        "story": "演员吴珊卓在达特茅斯演讲中回忆，拍摄《实习医生格蕾》时，她曾与编剧因台词僵持。听取主创建议并真正说出台词后，她获得了对角色与合作更深的理解。",
-        "lesson": "本项目建议：卡住时先标出不适点，再完成一次尝试。",
-        "sourceTitle": "Dartmouth｜2025 Commencement Address by Sandra Oh",
-        "sourceUrl": "https://home.dartmouth.edu/news/2025/06/2025-commencement-address-sandra-oh",
-        "sourceDate": "2025-06-15",
-        "kind": "案例提炼"
-      },
-      "encouragement": "不舒服也别撤，先把这一步扎实做完。",
-      "reviewedAt": "2026-11-04T22:12:57+08:00",
       "revision": 1
     }
   ]
