@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T22:13:06+08:00",
+  "updatedAt": "2026-11-08T22:17:00+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-10",
+      "card": {
+        "person": "普里娅·拉卡尼",
+        "idea": "真正的学习，不能把思考这一步外包",
+        "story": "普里娅·拉卡尼资助过餐食、疫苗和印度贫民区学校。得知英国仍有学生离校时读写不足，她走进学校追问原因，后来组建团队，让人工智能按学习科学设计，促使学生自己作答。",
+        "lesson": "本项目原创：问AI前先写思路，再只要一步提示。",
+        "sourceTitle": "This is how kids should be learning with AI",
+        "sourceUrl": "https://www.ted.com/talks/priya_lakhani_this_is_how_kids_should_be_learning_with_ai?view=transcript",
+        "sourceDate": "2025-11",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：先亮出你的思路，再让工具给你加速。",
+      "reviewedAt": "2026-11-08T22:16:09+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-09",
@@ -34,23 +51,6 @@
       },
       "encouragement": "先稳住自己，再把今天这一枪打准。",
       "reviewedAt": "2026-11-06T22:08:08+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-07",
-      "card": {
-        "person": "苏姿丰",
-        "idea": "失败结果不是句号，而是下一次实验的线索",
-        "story": "苏姿丰在MIT演讲中回忆，读博时她在洁净室花数周制作器件，测试结果却与预期不符。她便回到导师办公室，一起决定下一项实验；这样的反复让她逐步学会解决问题。",
-        "lesson": "本项目建议：错题后写一条原因，再换一步重试。",
-        "sourceTitle": "MIT News｜Commencement address by Lisa Su ’90, SM ’91, PhD ’94",
-        "sourceUrl": "https://news.mit.edu/2026/commencement-address-lisa-su-0528",
-        "sourceDate": "2026-05-28",
-        "kind": "案例提炼"
-      },
-      "encouragement": "别怕第一遍失手，抓住原因，立刻打出第二回合。",
-      "reviewedAt": "2026-11-05T22:13:33+08:00",
       "revision": 1
     }
   ]
