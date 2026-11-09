@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T22:17:00+08:00",
+  "updatedAt": "2026-11-09T22:33:07+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-11",
+      "card": {
+        "person": "卡罗琳·佐拉",
+        "idea": "被证据推翻并不丢脸，那是认识升级",
+        "story": "卡罗琳·佐拉初到斯坦福时是餐饮员，还认定那里不属于自己。多年后，她从社区学院转入伯克利，再申请历史博士；见老师、查环境后，她用证据推翻旧判断，最终完成博士学业。",
+        "lesson": "本项目原创：下结论前，先找一条反例证据。",
+        "sourceTitle": "Carolyn Zola's 2024 Commencement Speech",
+        "sourceUrl": "https://history.stanford.edu/carolyn-zolas-2024-commencement-speech",
+        "sourceDate": "2024",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：别护着原答案，找到反例就大胆升级判断。",
+      "reviewedAt": "2026-11-09T22:32:18+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-10",
@@ -34,23 +51,6 @@
       },
       "encouragement": "找到断掉的台阶，补上它，下一步就能猛冲。",
       "reviewedAt": "2026-11-07T22:11:51+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-08",
-      "card": {
-        "person": "阿德里亚娜·鲁阿诺·奥利瓦",
-        "idea": "先照顾好自己，训练才有稳固的起点",
-        "story": "射击选手阿德里亚娜·鲁阿诺·奥利瓦在东京奥运会后，没有急着只练技术，而是与心理专家用六七个月关注自我接纳和心理状态。三年后，她以沉稳表现赢得巴黎奥运金牌。",
-        "lesson": "本项目建议：任务乱时，先写一件可控小事并完成。",
-        "sourceTitle": "Olympics.com｜Adriana Ruano Oliva's eight-year transformation from Olympic Games volunteer to country’s first Olympic champion",
-        "sourceUrl": "https://www.olympics.com/ioc/news/shooting-paris-2024-adriana-ruano-oliva-guatemala-volunteer-father-interview",
-        "sourceDate": "2024",
-        "kind": "案例提炼"
-      },
-      "encouragement": "先稳住自己，再把今天这一枪打准。",
-      "reviewedAt": "2026-11-06T22:08:08+08:00",
       "revision": 1
     }
   ]
