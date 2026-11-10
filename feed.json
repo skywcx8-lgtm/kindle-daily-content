@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T22:33:07+08:00",
+  "updatedAt": "2026-11-10T22:12:37+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-12",
+      "card": {
+        "person": "吉姆·艾恩斯",
+        "idea": "坚持不是原地重复，而是守住目标持续换方案",
+        "story": "吉姆·艾恩斯参与陆地卫星八号时，项目先花五年尝试商业采购却失败，随后改搭另一平台也因技术不适合而终止。此后项目继续重构方案，最终改用独立卫星并成功发射。",
+        "lesson": "本项目原创：受阻时保留目标，立刻列出第二条路线。",
+        "sourceTitle": "Jim Irons, Former Landsat Project Scientist, Wins Pecora Award",
+        "sourceUrl": "https://science.nasa.gov/missions/landsat/jim-irons-former-landsat-project-scientist-wins-pecora-award/",
+        "sourceDate": "2026-06-10",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：目标别丢，路线卡死就换一条继续冲。",
+      "reviewedAt": "2026-11-10T22:11:49+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-11",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：先亮出你的思路，再让工具给你加速。",
       "reviewedAt": "2026-11-08T22:16:09+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-09",
-      "card": {
-        "person": "沃尔特·马西",
-        "idea": "不会新题时，先找出被遗漏的旧台阶",
-        "story": "物理学家沃尔特·马西在加州理工访谈中回忆，他进大学前没学过三角学，第一次物理课连向量也看不懂。导师课后专门辅导他补上缺口，这段经历让他开始迷上用物理理解世界。",
-        "lesson": "本项目建议：卡题先圈出缺的旧知识，再定点补一处。",
-        "sourceTitle": "Caltech｜Commencement Speaker Dr. Walter Massey on the Value of Science and Education",
-        "sourceUrl": "https://www.caltech.edu/about/news/walter-massey-interview-science-education-commencement-2025",
-        "sourceDate": "2025-06-04",
-        "kind": "案例提炼"
-      },
-      "encouragement": "找到断掉的台阶，补上它，下一步就能猛冲。",
-      "reviewedAt": "2026-11-07T22:11:51+08:00",
       "revision": 1
     }
   ]
