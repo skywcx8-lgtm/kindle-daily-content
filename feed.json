@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T22:12:37+08:00",
+  "updatedAt": "2026-11-11T22:15:02+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-13",
+      "card": {
+        "person": "纳维德·马赫达维安",
+        "idea": "面对庞大主题，先抓住一个能代表整体的细节",
+        "story": "漫画家纳维德·马赫达维安得知祖母病危时，最先想到的是画她的手。他不求一次讲完复杂悲伤，而是抓住手的触感和曲线，把庞大情绪拆成具体画面，最终完成一篇漫画。",
+        "lesson": "本项目原创：大题先圈一个关键细节，再从它展开。",
+        "sourceTitle": "How art helped me grapple with grief",
+        "sourceUrl": "https://www.ted.com/talks/navied_mahdavian_how_art_helped_me_grapple_with_grief?view=transcript",
+        "sourceDate": "2024-10",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：大题再吓人，抓住切口就能猛攻开局。",
+      "reviewedAt": "2026-11-11T22:14:04+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-12",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：别护着原答案，找到反例就大胆升级判断。",
       "reviewedAt": "2026-11-09T22:32:18+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-10",
-      "card": {
-        "person": "普里娅·拉卡尼",
-        "idea": "真正的学习，不能把思考这一步外包",
-        "story": "普里娅·拉卡尼资助过餐食、疫苗和印度贫民区学校。得知英国仍有学生离校时读写不足，她走进学校追问原因，后来组建团队，让人工智能按学习科学设计，促使学生自己作答。",
-        "lesson": "本项目原创：问AI前先写思路，再只要一步提示。",
-        "sourceTitle": "This is how kids should be learning with AI",
-        "sourceUrl": "https://www.ted.com/talks/priya_lakhani_this_is_how_kids_should_be_learning_with_ai?view=transcript",
-        "sourceDate": "2025-11",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：先亮出你的思路，再让工具给你加速。",
-      "reviewedAt": "2026-11-08T22:16:09+08:00",
       "revision": 1
     }
   ]
