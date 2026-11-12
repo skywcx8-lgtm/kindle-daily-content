@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T22:15:02+08:00",
+  "updatedAt": "2026-11-12T22:15:44+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-14",
+      "card": {
+        "person": "霍莉·布拉德肖",
+        "idea": "情绪可以停留一会儿，但复盘必须接棒",
+        "story": "撑竿跳高运动员霍莉·布拉德肖经历过心理低谷。面对糟糕表现，她不把失利埋起来：先给自己二十四小时消化情绪，再找出做对和出错之处；过去十年，她坚持记录每天的好与坏。",
+        "lesson": "本项目原创：失手后限时冷静，再写一好一改。",
+        "sourceTitle": "IOC Mental Health Ambassador Holly Bradshaw: Ending the stigma around mental health in sport",
+        "sourceUrl": "https://www.olympics.com/ioc/news/ioc-mental-health-ambassador-holly-bradshaw-ending-the-stigma-around-mental-health-in-sport",
+        "sourceDate": "2024-10",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：允许难受，但下一笔必须写出反攻点。",
+      "reviewedAt": "2026-11-12T22:14:59+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-13",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：目标别丢，路线卡死就换一条继续冲。",
       "reviewedAt": "2026-11-10T22:11:49+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-11",
-      "card": {
-        "person": "卡罗琳·佐拉",
-        "idea": "被证据推翻并不丢脸，那是认识升级",
-        "story": "卡罗琳·佐拉初到斯坦福时是餐饮员，还认定那里不属于自己。多年后，她从社区学院转入伯克利，再申请历史博士；见老师、查环境后，她用证据推翻旧判断，最终完成博士学业。",
-        "lesson": "本项目原创：下结论前，先找一条反例证据。",
-        "sourceTitle": "Carolyn Zola's 2024 Commencement Speech",
-        "sourceUrl": "https://history.stanford.edu/carolyn-zolas-2024-commencement-speech",
-        "sourceDate": "2024",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：别护着原答案，找到反例就大胆升级判断。",
-      "reviewedAt": "2026-11-09T22:32:18+08:00",
       "revision": 1
     }
   ]
