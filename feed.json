@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T22:15:44+08:00",
+  "updatedAt": "2026-11-13T22:15:22+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-15",
+      "card": {
+        "person": "杰西·考克斯",
+        "idea": "新问题常藏在一次小改动的前后差异里",
+        "story": "杰西·考克斯觉得视频会议没有背景声很无聊，便给讲话加上混响。这个小改动让他追问声音处在什么空间；他后来用作品探索空间声音，把日常疑问变成了可听见的创作。",
+        "lesson": "本项目原创：卡住时只改一个变量，立刻比较前后。",
+        "sourceTitle": "Jessie Cox is dreaming new futures through sound",
+        "sourceUrl": "https://music.fas.harvard.edu/news/2025/03/jessie-cox-dreaming-new-futures-through-sound",
+        "sourceDate": "2025-03-10",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：别等灵感，先动一个变量，把新线索打出来。",
+      "reviewedAt": "2026-11-13T22:14:36+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-14",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：大题再吓人，抓住切口就能猛攻开局。",
       "reviewedAt": "2026-11-11T22:14:04+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-12",
-      "card": {
-        "person": "吉姆·艾恩斯",
-        "idea": "坚持不是原地重复，而是守住目标持续换方案",
-        "story": "吉姆·艾恩斯参与陆地卫星八号时，项目先花五年尝试商业采购却失败，随后改搭另一平台也因技术不适合而终止。此后项目继续重构方案，最终改用独立卫星并成功发射。",
-        "lesson": "本项目原创：受阻时保留目标，立刻列出第二条路线。",
-        "sourceTitle": "Jim Irons, Former Landsat Project Scientist, Wins Pecora Award",
-        "sourceUrl": "https://science.nasa.gov/missions/landsat/jim-irons-former-landsat-project-scientist-wins-pecora-award/",
-        "sourceDate": "2026-06-10",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：目标别丢，路线卡死就换一条继续冲。",
-      "reviewedAt": "2026-11-10T22:11:49+08:00",
       "revision": 1
     }
   ]
