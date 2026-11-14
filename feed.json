@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T22:15:22+08:00",
+  "updatedAt": "2026-11-14T22:07:55+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-16",
+      "card": {
+        "person": "戴维·贝克",
+        "idea": "一个人的卡点，常是另一个人的现成线索",
+        "story": "戴维·贝克把实验室建成“共同大脑”：每周分享研究，自己每天与学生讨论，再把相关课题的人连起来。近两百名昔日学生和博士后来到斯德哥尔摩，与他一起庆祝诺贝尔奖。",
+        "lesson": "本项目原创：卡题两分钟，向同伴讲清卡点并求一招。",
+        "sourceTitle": "David Baker – Podcast",
+        "sourceUrl": "https://www.nobelprize.org/prizes/chemistry/2024/baker/podcast/",
+        "sourceDate": "2025-05-29",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：别闷头硬撞，亮出卡点，借来一束火力。",
+      "reviewedAt": "2026-11-14T22:07:13+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-15",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：允许难受，但下一笔必须写出反攻点。",
       "reviewedAt": "2026-11-12T22:14:59+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-13",
-      "card": {
-        "person": "纳维德·马赫达维安",
-        "idea": "面对庞大主题，先抓住一个能代表整体的细节",
-        "story": "漫画家纳维德·马赫达维安得知祖母病危时，最先想到的是画她的手。他不求一次讲完复杂悲伤，而是抓住手的触感和曲线，把庞大情绪拆成具体画面，最终完成一篇漫画。",
-        "lesson": "本项目原创：大题先圈一个关键细节，再从它展开。",
-        "sourceTitle": "How art helped me grapple with grief",
-        "sourceUrl": "https://www.ted.com/talks/navied_mahdavian_how_art_helped_me_grapple_with_grief?view=transcript",
-        "sourceDate": "2024-10",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：大题再吓人，抓住切口就能猛攻开局。",
-      "reviewedAt": "2026-11-11T22:14:04+08:00",
       "revision": 1
     }
   ]
