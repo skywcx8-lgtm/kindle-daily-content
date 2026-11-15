@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T22:07:55+08:00",
+  "updatedAt": "2026-11-15T22:16:53+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-17",
+      "card": {
+        "person": "丹妮拉·鲁斯",
+        "idea": "现实问题要先核对约束，再启动方案",
+        "story": "学生时代，她和同伴给教授做切蛋糕机器人：程序按柔软圆蛋糕设计，现场却是坚硬方形冰淇淋蛋糕，机器几乎毁掉蛋糕。她由此明白，现实的误差与物理限制不会自动服从程序。",
+        "lesson": "本项目原创：开题前写下三项真实约束",
+        "sourceTitle": "How AI will step off the screen and into the real world",
+        "sourceUrl": "https://www.ted.com/talks/daniela_rus_how_ai_will_step_off_the_screen_and_into_the_real_world?view=transcript",
+        "sourceDate": "2024-04-16",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：先看清边界，再把你的方案推到现实里！",
+      "reviewedAt": "2026-11-15T22:16:09+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-16",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：别等灵感，先动一个变量，把新线索打出来。",
       "reviewedAt": "2026-11-13T22:14:36+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-14",
-      "card": {
-        "person": "霍莉·布拉德肖",
-        "idea": "情绪可以停留一会儿，但复盘必须接棒",
-        "story": "撑竿跳高运动员霍莉·布拉德肖经历过心理低谷。面对糟糕表现，她不把失利埋起来：先给自己二十四小时消化情绪，再找出做对和出错之处；过去十年，她坚持记录每天的好与坏。",
-        "lesson": "本项目原创：失手后限时冷静，再写一好一改。",
-        "sourceTitle": "IOC Mental Health Ambassador Holly Bradshaw: Ending the stigma around mental health in sport",
-        "sourceUrl": "https://www.olympics.com/ioc/news/ioc-mental-health-ambassador-holly-bradshaw-ending-the-stigma-around-mental-health-in-sport",
-        "sourceDate": "2024-10",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：允许难受，但下一笔必须写出反攻点。",
-      "reviewedAt": "2026-11-12T22:14:59+08:00",
       "revision": 1
     }
   ]
