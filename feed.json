@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T22:16:53+08:00",
+  "updatedAt": "2026-11-16T22:20:50+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-18",
+      "card": {
+        "person": "约翰·霍普菲尔德",
+        "idea": "好问题既值得攻，也要有能下手的入口",
+        "story": "三十五岁时，他熟悉的物理领域已少有合适问题。霍普菲尔德主动听欧洲生物学家的讲座，没有追逐最宏大的生命起源，而是寻找能用物理工具切入的问题，最终走向神经网络研究。",
+        "lesson": "本项目原创：挑题先写两栏：价值与切入口",
+        "sourceTitle": "John Hopfield: Nobel Prize Conversations",
+        "sourceUrl": "https://www.nobelprize.org/prizes/physics/2024/hopfield/podcast/",
+        "sourceDate": "2025-07-10",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：别被大题吓住，找到切入口就狠狠干下去！",
+      "reviewedAt": "2026-11-16T22:20:04+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-17",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：别闷头硬撞，亮出卡点，借来一束火力。",
       "reviewedAt": "2026-11-14T22:07:13+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-15",
-      "card": {
-        "person": "杰西·考克斯",
-        "idea": "新问题常藏在一次小改动的前后差异里",
-        "story": "杰西·考克斯觉得视频会议没有背景声很无聊，便给讲话加上混响。这个小改动让他追问声音处在什么空间；他后来用作品探索空间声音，把日常疑问变成了可听见的创作。",
-        "lesson": "本项目原创：卡住时只改一个变量，立刻比较前后。",
-        "sourceTitle": "Jessie Cox is dreaming new futures through sound",
-        "sourceUrl": "https://music.fas.harvard.edu/news/2025/03/jessie-cox-dreaming-new-futures-through-sound",
-        "sourceDate": "2025-03-10",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：别等灵感，先动一个变量，把新线索打出来。",
-      "reviewedAt": "2026-11-13T22:14:36+08:00",
       "revision": 1
     }
   ]
