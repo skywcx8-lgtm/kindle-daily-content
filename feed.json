@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T22:20:50+08:00",
+  "updatedAt": "2026-11-17T22:07:30+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-19",
+      "card": {
+        "person": "韩江",
+        "idea": "卡住时，反过来提问可能打开新方向",
+        "story": "写《少年来了》时，韩江每天阅读证词，原先追问“当下能否帮助过去、活人能否拯救死者”。读到一位夜校教师的日记后，她把两个问题反过来，由此找到小说的方向。",
+        "lesson": "本项目原创：卡题时把原问题反向改写一次",
+        "sourceTitle": "Light and Thread — Nobel Lecture by Han Kang",
+        "sourceUrl": "https://www.nobelprize.org/uploads/2024/12/han-lecture-english.pdf",
+        "sourceDate": "2024-12-07",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：问题转个方向，你就能劈开新的突破口！",
+      "reviewedAt": "2026-11-17T22:06:54+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-18",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：先看清边界，再把你的方案推到现实里！",
       "reviewedAt": "2026-11-15T22:16:09+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-16",
-      "card": {
-        "person": "戴维·贝克",
-        "idea": "一个人的卡点，常是另一个人的现成线索",
-        "story": "戴维·贝克把实验室建成“共同大脑”：每周分享研究，自己每天与学生讨论，再把相关课题的人连起来。近两百名昔日学生和博士后来到斯德哥尔摩，与他一起庆祝诺贝尔奖。",
-        "lesson": "本项目原创：卡题两分钟，向同伴讲清卡点并求一招。",
-        "sourceTitle": "David Baker – Podcast",
-        "sourceUrl": "https://www.nobelprize.org/prizes/chemistry/2024/baker/podcast/",
-        "sourceDate": "2025-05-29",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：别闷头硬撞，亮出卡点，借来一束火力。",
-      "reviewedAt": "2026-11-14T22:07:13+08:00",
       "revision": 1
     }
   ]
