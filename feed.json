@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T22:07:30+08:00",
+  "updatedAt": "2026-11-18T22:10:49+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-20",
+      "card": {
+        "person": "乔什·威利斯",
+        "idea": "趋势越反常，越要先排查数据怎样接在一起",
+        "story": "海洋学家乔什·威利斯曾发表海洋降温结论，后来发现是假象：旧数据偏暖，新数据偏冷，拼接后制造了错误趋势。他和团队重新细查数据，才得到一致的地球变化图景。",
+        "lesson": "本项目原创：合并两组数据前，各写一条可能偏差",
+        "sourceTitle": "Josh Willis — NASA Science",
+        "sourceUrl": "https://science.nasa.gov/people/josh-willis/",
+        "sourceDate": "2024-11-04",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：敢查自己的数据，才有底气把真相打出来！",
+      "reviewedAt": "2026-11-18T22:09:59+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-19",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：别被大题吓住，找到切入口就狠狠干下去！",
       "reviewedAt": "2026-11-16T22:20:04+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-17",
-      "card": {
-        "person": "丹妮拉·鲁斯",
-        "idea": "现实问题要先核对约束，再启动方案",
-        "story": "学生时代，她和同伴给教授做切蛋糕机器人：程序按柔软圆蛋糕设计，现场却是坚硬方形冰淇淋蛋糕，机器几乎毁掉蛋糕。她由此明白，现实的误差与物理限制不会自动服从程序。",
-        "lesson": "本项目原创：开题前写下三项真实约束",
-        "sourceTitle": "How AI will step off the screen and into the real world",
-        "sourceUrl": "https://www.ted.com/talks/daniela_rus_how_ai_will_step_off_the_screen_and_into_the_real_world?view=transcript",
-        "sourceDate": "2024-04-16",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：先看清边界，再把你的方案推到现实里！",
-      "reviewedAt": "2026-11-15T22:16:09+08:00",
       "revision": 1
     }
   ]
