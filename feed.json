@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T22:10:49+08:00",
+  "updatedAt": "2026-11-19T22:11:11+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-21",
+      "card": {
+        "person": "莫尔欣·阿拉亚里",
+        "idea": "工具给出套路答案时，先补充它缺少的材料",
+        "story": "艺术家莫尔欣·阿拉亚里让人工智能重现伊朗卡扎尔时代的多元审美，却发现模型不懂那个时代，还把“酷儿”一律画成彩虹。她于是补入自己的历史材料，改造模型取材的资料库。",
+        "lesson": "本项目原创：用工具前先喂一份原始材料",
+        "sourceTitle": "How a Stanford Digital Media Artist is Challenging AI’s Assumptions",
+        "sourceUrl": "https://islamicstudies.stanford.edu/news/how-stanford-digital-media-artist-challenging-ais-assumptions",
+        "sourceDate": "2025-12-05",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：别让工具替你定答案，先把材料掌握在手！",
+      "reviewedAt": "2026-11-19T22:10:09+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-20",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：问题转个方向，你就能劈开新的突破口！",
       "reviewedAt": "2026-11-17T22:06:54+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-18",
-      "card": {
-        "person": "约翰·霍普菲尔德",
-        "idea": "好问题既值得攻，也要有能下手的入口",
-        "story": "三十五岁时，他熟悉的物理领域已少有合适问题。霍普菲尔德主动听欧洲生物学家的讲座，没有追逐最宏大的生命起源，而是寻找能用物理工具切入的问题，最终走向神经网络研究。",
-        "lesson": "本项目原创：挑题先写两栏：价值与切入口",
-        "sourceTitle": "John Hopfield: Nobel Prize Conversations",
-        "sourceUrl": "https://www.nobelprize.org/prizes/physics/2024/hopfield/podcast/",
-        "sourceDate": "2025-07-10",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：别被大题吓住，找到切入口就狠狠干下去！",
-      "reviewedAt": "2026-11-16T22:20:04+08:00",
       "revision": 1
     }
   ]
