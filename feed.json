@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T22:11:11+08:00",
+  "updatedAt": "2026-11-20T22:14:15+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-22",
+      "card": {
+        "person": "约翰·江珀",
+        "idea": "截止日期要落到具体时刻，行动才不靠猜",
+        "story": "诺贝尔化学奖得主约翰·江珀申请芝加哥大学物理系时，把下午五点的截止时间误以为午夜，错过提交。后来同事介绍他转向化学，学校重开一天申请，他迅速补交并获录取。",
+        "lesson": "本项目原创：写下截止时分，再设提前一天检查",
+        "sourceTitle": "John Jumper – Podcast",
+        "sourceUrl": "https://www.nobelprize.org/prizes/chemistry/2024/jumper/podcast/",
+        "sourceDate": "2025-06-19",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：别把期限留给猜测，定准时刻马上开干！",
+      "reviewedAt": "2026-11-20T22:13:11+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-21",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：敢查自己的数据，才有底气把真相打出来！",
       "reviewedAt": "2026-11-18T22:09:59+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-19",
-      "card": {
-        "person": "韩江",
-        "idea": "卡住时，反过来提问可能打开新方向",
-        "story": "写《少年来了》时，韩江每天阅读证词，原先追问“当下能否帮助过去、活人能否拯救死者”。读到一位夜校教师的日记后，她把两个问题反过来，由此找到小说的方向。",
-        "lesson": "本项目原创：卡题时把原问题反向改写一次",
-        "sourceTitle": "Light and Thread — Nobel Lecture by Han Kang",
-        "sourceUrl": "https://www.nobelprize.org/uploads/2024/12/han-lecture-english.pdf",
-        "sourceDate": "2024-12-07",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：问题转个方向，你就能劈开新的突破口！",
-      "reviewedAt": "2026-11-17T22:06:54+08:00",
       "revision": 1
     }
   ]
