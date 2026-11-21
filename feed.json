@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T22:14:15+08:00",
+  "updatedAt": "2026-11-21T22:17:31+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-23",
+      "card": {
+        "person": "约翰·马瑟",
+        "idea": "理解抽象世界，可以先从亲手做个小模型开始",
+        "story": "诺贝尔物理学奖得主约翰·马瑟高中时攒下零用钱，买来镜面和透镜，再用硬纸板与管材做成自己的望远镜。几十年后，已带领团队探索宇宙的他仍保存着这件少年作品。",
+        "lesson": "本项目原创：学完概念，用手边材料做个小模型",
+        "sourceTitle": "Cosmic Dawn with Nobel Laureate John Mather",
+        "sourceUrl": "https://www.nasa.gov/podcasts/curious-universe/cosmic-dawn-with-nobel-laureate-john-mather/",
+        "sourceDate": "2025-06-04",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：别只盯着定义，动手把它变成看得见的本事！",
+      "reviewedAt": "2026-11-21T22:16:39+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-22",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：别让工具替你定答案，先把材料掌握在手！",
       "reviewedAt": "2026-11-19T22:10:09+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-20",
-      "card": {
-        "person": "乔什·威利斯",
-        "idea": "趋势越反常，越要先排查数据怎样接在一起",
-        "story": "海洋学家乔什·威利斯曾发表海洋降温结论，后来发现是假象：旧数据偏暖，新数据偏冷，拼接后制造了错误趋势。他和团队重新细查数据，才得到一致的地球变化图景。",
-        "lesson": "本项目原创：合并两组数据前，各写一条可能偏差",
-        "sourceTitle": "Josh Willis — NASA Science",
-        "sourceUrl": "https://science.nasa.gov/people/josh-willis/",
-        "sourceDate": "2024-11-04",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：敢查自己的数据，才有底气把真相打出来！",
-      "reviewedAt": "2026-11-18T22:09:59+08:00",
       "revision": 1
     }
   ]
