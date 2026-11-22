@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T22:17:31+08:00",
+  "updatedAt": "2026-11-22T22:16:02+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-24",
+      "card": {
+        "person": "悉尼·麦克劳克林-莱弗隆",
+        "idea": "练得再熟，也要把眼前这一遍当成新任务",
+        "story": "巴黎奥运会女子四百米栏决赛中，悉尼·麦克劳克林-莱弗隆把每场比赛都当成独立的新任务。冲过最后一栏时，她只盯着跑过终点线；这套练过无数遍的动作，最终带来世界纪录。",
+        "lesson": "本项目原创：熟题先遮答案，再独立完整做一遍",
+        "sourceTitle": "\"It's a surreal moment\": Sydney McLaughlin-Levrone sits down to discuss world record and gold medal from Paris 2024",
+        "sourceUrl": "https://www.olympics.com/ioc/news/sydney-mclaughlin-levrone-world-record-gold-medal-paris-2024-olympics-interview",
+        "sourceDate": "2024-08",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：练过千遍也别滑过去，把这一遍狠狠干到底！",
+      "reviewedAt": "2026-11-22T22:14:54+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-23",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：别把期限留给猜测，定准时刻马上开干！",
       "reviewedAt": "2026-11-20T22:13:11+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-21",
-      "card": {
-        "person": "莫尔欣·阿拉亚里",
-        "idea": "工具给出套路答案时，先补充它缺少的材料",
-        "story": "艺术家莫尔欣·阿拉亚里让人工智能重现伊朗卡扎尔时代的多元审美，却发现模型不懂那个时代，还把“酷儿”一律画成彩虹。她于是补入自己的历史材料，改造模型取材的资料库。",
-        "lesson": "本项目原创：用工具前先喂一份原始材料",
-        "sourceTitle": "How a Stanford Digital Media Artist is Challenging AI’s Assumptions",
-        "sourceUrl": "https://islamicstudies.stanford.edu/news/how-stanford-digital-media-artist-challenging-ais-assumptions",
-        "sourceDate": "2025-12-05",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：别让工具替你定答案，先把材料掌握在手！",
-      "reviewedAt": "2026-11-19T22:10:09+08:00",
       "revision": 1
     }
   ]
