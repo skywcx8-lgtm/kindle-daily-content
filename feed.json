@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T22:16:02+08:00",
+  "updatedAt": "2026-11-23T22:14:33+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-25",
+      "card": {
+        "person": "奈扎·汗",
+        "idea": "换一种表达载体，可能让材料重新发声",
+        "story": "艺术家奈扎·汗从一份1939年印度洋风暴报告出发，先把这段天气史做成声音作品，让遗失的记录重新可感；在威尼斯双年展中，她又把声音与黄铜地图和金属物件并置。",
+        "lesson": "本项目原创：同一内容先做图示，再口头讲一遍",
+        "sourceTitle": "Welcoming Naiza Khan, Mittal Institute Distinguished Artist Fellow",
+        "sourceUrl": "https://mittalsouthasiainstitute.harvard.edu/2025/03/naiza-khan/",
+        "sourceDate": "2025-03-26",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：一种表达打不通，就换条通道狠狠干明白！",
+      "reviewedAt": "2026-11-23T22:13:34+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-24",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：别只盯着定义，动手把它变成看得见的本事！",
       "reviewedAt": "2026-11-21T22:16:39+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-22",
-      "card": {
-        "person": "约翰·江珀",
-        "idea": "截止日期要落到具体时刻，行动才不靠猜",
-        "story": "诺贝尔化学奖得主约翰·江珀申请芝加哥大学物理系时，把下午五点的截止时间误以为午夜，错过提交。后来同事介绍他转向化学，学校重开一天申请，他迅速补交并获录取。",
-        "lesson": "本项目原创：写下截止时分，再设提前一天检查",
-        "sourceTitle": "John Jumper – Podcast",
-        "sourceUrl": "https://www.nobelprize.org/prizes/chemistry/2024/jumper/podcast/",
-        "sourceDate": "2025-06-19",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：别把期限留给猜测，定准时刻马上开干！",
-      "reviewedAt": "2026-11-20T22:13:11+08:00",
       "revision": 1
     }
   ]
