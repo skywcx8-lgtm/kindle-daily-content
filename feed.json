@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T22:14:33+08:00",
+  "updatedAt": "2026-11-24T22:12:37+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-26",
+      "card": {
+        "person": "加里·鲁夫昆",
+        "idea": "反馈越快、越能重复，越适合把想法试透",
+        "story": "遗传学家加里·鲁夫昆读研时自认基础不如同伴。他逐渐形成一项选题直觉：优先挑反馈快、成本低的实验系统。小线虫饲养便宜，还能支持团队反复检验生物如何应对变化。",
+        "lesson": "本项目原创：做探究先选反馈快、可重复的方案",
+        "sourceTitle": "Gary Ruvkun – Podcast",
+        "sourceUrl": "https://www.nobelprize.org/prizes/medicine/2024/ruvkun/podcast/",
+        "sourceDate": "2025-06-26",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：别等完美条件，选能快试的路狠狠干出证据！",
+      "reviewedAt": "2026-11-24T22:11:54+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-25",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：练过千遍也别滑过去，把这一遍狠狠干到底！",
       "reviewedAt": "2026-11-22T22:14:54+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-23",
-      "card": {
-        "person": "约翰·马瑟",
-        "idea": "理解抽象世界，可以先从亲手做个小模型开始",
-        "story": "诺贝尔物理学奖得主约翰·马瑟高中时攒下零用钱，买来镜面和透镜，再用硬纸板与管材做成自己的望远镜。几十年后，已带领团队探索宇宙的他仍保存着这件少年作品。",
-        "lesson": "本项目原创：学完概念，用手边材料做个小模型",
-        "sourceTitle": "Cosmic Dawn with Nobel Laureate John Mather",
-        "sourceUrl": "https://www.nasa.gov/podcasts/curious-universe/cosmic-dawn-with-nobel-laureate-john-mather/",
-        "sourceDate": "2025-06-04",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：别只盯着定义，动手把它变成看得见的本事！",
-      "reviewedAt": "2026-11-21T22:16:39+08:00",
       "revision": 1
     }
   ]
