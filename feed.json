@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T22:12:37+08:00",
+  "updatedAt": "2026-11-25T22:13:21+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-27",
+      "card": {
+        "person": "Michiharu Hyogo",
+        "idea": "大批材料先统一分类，异常项才会真正冒出来",
+        "story": "公民科学家Michiharu Hyogo曾为行星猎手分类十五万条光变曲线。后来，他在一千六百多个候选天体中锁定红外异常最明显的一项，继续研究并完成首篇论文。",
+        "lesson": "本项目原创：先统一分类标准，再追最异常一项",
+        "sourceTitle": "Interview with Michiharu Hyogo, Citizen Scientist and First Author of a New Scientific Paper",
+        "sourceUrl": "https://science.nasa.gov/get-involved/citizen-science/interview-with-michiharu-hyogo-citizen-scientist-and-first-author-of-a-new-scientific-paper/",
+        "sourceDate": "2025-03-19",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：别怕材料成山，定准标准，狠狠干出那条异常！",
+      "reviewedAt": "2026-11-25T22:12:21+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-26",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：一种表达打不通，就换条通道狠狠干明白！",
       "reviewedAt": "2026-11-23T22:13:34+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-24",
-      "card": {
-        "person": "悉尼·麦克劳克林-莱弗隆",
-        "idea": "练得再熟，也要把眼前这一遍当成新任务",
-        "story": "巴黎奥运会女子四百米栏决赛中，悉尼·麦克劳克林-莱弗隆把每场比赛都当成独立的新任务。冲过最后一栏时，她只盯着跑过终点线；这套练过无数遍的动作，最终带来世界纪录。",
-        "lesson": "本项目原创：熟题先遮答案，再独立完整做一遍",
-        "sourceTitle": "\"It's a surreal moment\": Sydney McLaughlin-Levrone sits down to discuss world record and gold medal from Paris 2024",
-        "sourceUrl": "https://www.olympics.com/ioc/news/sydney-mclaughlin-levrone-world-record-gold-medal-paris-2024-olympics-interview",
-        "sourceDate": "2024-08",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：练过千遍也别滑过去，把这一遍狠狠干到底！",
-      "reviewedAt": "2026-11-22T22:14:54+08:00",
       "revision": 1
     }
   ]
