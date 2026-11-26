@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T22:13:21+08:00",
+  "updatedAt": "2026-11-26T22:16:27+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-28",
+      "card": {
+        "person": "Heather Koehler",
+        "idea": "旧经验不是答案，而是新问题的起跑线",
+        "story": "NASA飞行力学专家Heather Koehler介绍，团队把航天飞机的模型和流程作为新任务起点，再按新环境与约束调整；连发射日瞄准流程也被复用到新系统。",
+        "lesson": "本项目原创：新任务先找旧做法，再圈出三处改动",
+        "sourceTitle": "Episode 181: Passing Down Knowledge",
+        "sourceUrl": "https://www.nasa.gov/podcasts/small-steps-giant-leaps/episode-181-passing-down-knowledge/",
+        "sourceDate": "2026-09-02",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：别从零发愁，抓住旧经验狠狠干出新版本！",
+      "reviewedAt": "2026-11-26T22:15:46+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-27",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：别等完美条件，选能快试的路狠狠干出证据！",
       "reviewedAt": "2026-11-24T22:11:54+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-25",
-      "card": {
-        "person": "奈扎·汗",
-        "idea": "换一种表达载体，可能让材料重新发声",
-        "story": "艺术家奈扎·汗从一份1939年印度洋风暴报告出发，先把这段天气史做成声音作品，让遗失的记录重新可感；在威尼斯双年展中，她又把声音与黄铜地图和金属物件并置。",
-        "lesson": "本项目原创：同一内容先做图示，再口头讲一遍",
-        "sourceTitle": "Welcoming Naiza Khan, Mittal Institute Distinguished Artist Fellow",
-        "sourceUrl": "https://mittalsouthasiainstitute.harvard.edu/2025/03/naiza-khan/",
-        "sourceDate": "2025-03-26",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：一种表达打不通，就换条通道狠狠干明白！",
-      "reviewedAt": "2026-11-23T22:13:34+08:00",
       "revision": 1
     }
   ]
