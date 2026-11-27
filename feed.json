@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T22:16:27+08:00",
+  "updatedAt": "2026-11-27T22:11:02+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-29",
+      "card": {
+        "person": "Astro Teller",
+        "idea": "先并排试几条粗路线，再把优势合成强方案",
+        "story": "面对限期六个月的任务，X负责人Astro Teller不主张一开始押注单一路线。他会先并行做五个粗糙原型，再比较优缺点，最后把最佳方案或几项优势组合成正式版本。",
+        "lesson": "本项目原创：难题先并排试三份草案，再合并强项",
+        "sourceTitle": "Why you need to fail at work with Astro Teller (Transcript)",
+        "sourceUrl": "https://www.ted.com/podcasts/why-you-need-to-fail-at-work-with-astro-teller-transcript",
+        "sourceDate": "2026-10-27",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：别押宝第一招，三路开干，把最强解拼出来！",
+      "reviewedAt": "2026-11-27T22:10:30+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-28",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：别怕材料成山，定准标准，狠狠干出那条异常！",
       "reviewedAt": "2026-11-25T22:12:21+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-26",
-      "card": {
-        "person": "加里·鲁夫昆",
-        "idea": "反馈越快、越能重复，越适合把想法试透",
-        "story": "遗传学家加里·鲁夫昆读研时自认基础不如同伴。他逐渐形成一项选题直觉：优先挑反馈快、成本低的实验系统。小线虫饲养便宜，还能支持团队反复检验生物如何应对变化。",
-        "lesson": "本项目原创：做探究先选反馈快、可重复的方案",
-        "sourceTitle": "Gary Ruvkun – Podcast",
-        "sourceUrl": "https://www.nobelprize.org/prizes/medicine/2024/ruvkun/podcast/",
-        "sourceDate": "2025-06-26",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：别等完美条件，选能快试的路狠狠干出证据！",
-      "reviewedAt": "2026-11-24T22:11:54+08:00",
       "revision": 1
     }
   ]
