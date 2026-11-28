@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T22:11:02+08:00",
+  "updatedAt": "2026-11-28T22:10:34+08:00",
   "days": [
+    {
+      "schemaVersion": 1,
+      "contentDate": "2026-11-30",
+      "card": {
+        "person": "Eileen Hogan",
+        "idea": "要写出一个人，先观察他在真实交流中的变化",
+        "story": "画家Eileen Hogan为剑桥纽纳姆学院院长作肖像时，让口述史学者与模特交谈，自己专心观察表情并速写。她在数月里多次返回、完成数份研究稿，才确定最终画面。",
+        "lesson": "本项目原创：写人物先记一个动作，再补一句现场话",
+        "sourceTitle": "Portrait of Principal Alison Rose on display at Newnham College",
+        "sourceUrl": "https://newn.cam.ac.uk/newnham-news/portrait-principal-alison-rose-display-newnham-college",
+        "sourceDate": "2025-03-03",
+        "kind": "案例提炼"
+      },
+      "encouragement": "本项目原创：别急着套模板，抓住真动作，狠狠干出鲜活人物！",
+      "reviewedAt": "2026-11-28T22:09:56+08:00",
+      "revision": 1
+    },
     {
       "schemaVersion": 1,
       "contentDate": "2026-11-29",
@@ -34,23 +51,6 @@
       },
       "encouragement": "本项目原创：别从零发愁，抓住旧经验狠狠干出新版本！",
       "reviewedAt": "2026-11-26T22:15:46+08:00",
-      "revision": 1
-    },
-    {
-      "schemaVersion": 1,
-      "contentDate": "2026-11-27",
-      "card": {
-        "person": "Michiharu Hyogo",
-        "idea": "大批材料先统一分类，异常项才会真正冒出来",
-        "story": "公民科学家Michiharu Hyogo曾为行星猎手分类十五万条光变曲线。后来，他在一千六百多个候选天体中锁定红外异常最明显的一项，继续研究并完成首篇论文。",
-        "lesson": "本项目原创：先统一分类标准，再追最异常一项",
-        "sourceTitle": "Interview with Michiharu Hyogo, Citizen Scientist and First Author of a New Scientific Paper",
-        "sourceUrl": "https://science.nasa.gov/get-involved/citizen-science/interview-with-michiharu-hyogo-citizen-scientist-and-first-author-of-a-new-scientific-paper/",
-        "sourceDate": "2025-03-19",
-        "kind": "案例提炼"
-      },
-      "encouragement": "本项目原创：别怕材料成山，定准标准，狠狠干出那条异常！",
-      "reviewedAt": "2026-11-25T22:12:21+08:00",
       "revision": 1
     }
   ]
